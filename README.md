@@ -1,4 +1,4 @@
-s# ➗ MathSuite
+# ➗ MathSuite
 
 Projeto desenvolvido em **Java** com foco na prática de operações matemáticas
 e no uso da biblioteca padrão da linguagem.
